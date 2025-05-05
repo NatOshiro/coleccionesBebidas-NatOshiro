@@ -3,7 +3,7 @@ import tito.*
 describe "test de tito" {
 
     method initialize() {
-        tito.consumir(5,wisky)
+        tito.consumir(5,whisky)
     }
 
     method consumoTerere() {
